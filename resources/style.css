@@ -22,3 +22,8 @@ font-size: 23px;
 font-weight: bold;
 color: white;
 }
+.about {font-size: 11px;
+color: white;
+background-color: dimgray;
+text-align: left;
+}
